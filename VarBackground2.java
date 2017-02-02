@@ -1,8 +1,7 @@
 
 public class VarBackground2 {
 
-	
-	public VarBackground2(){
-		
-	}
+  public VarBackground2() {
+
+  }
 }

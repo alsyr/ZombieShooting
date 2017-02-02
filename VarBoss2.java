@@ -1,8 +1,7 @@
 
 public class VarBoss2 {
 
-	
-	public VarBoss2(){
-		
-	}
+  public VarBoss2() {
+
+  }
 }
